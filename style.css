@@ -36,6 +36,7 @@ img {
 		display: flex;
 		flex-wrap: wrap;
 	}
+
 	.osoba {
 		display: flex;
 		flex-direction: row;
@@ -46,14 +47,14 @@ img {
 		flex-basis:48%;
 		margin:10px auto;
 		overflow: auto;	
-	
-		
 	}
+
 	.popis {
 		
 		text-align: left;
 		padding: 20px 5px;
 	}
+
 	.foto{
 		padding: 15px 15px;
 	}
@@ -64,6 +65,7 @@ img {
 		display:flex;
 		flex-wrap:wrap;
 	}
+
 	.osoba {
 		display:flex;
         flex-wrap:wrap;
@@ -72,10 +74,12 @@ img {
 		margin: 30px auto;
 		overflow: auto;	
 	}
+
 	.popis {
 		text-align:center;
 		padding: 0;
 	}
+	
 	.foto {
 	padding:15px 0 0 0;
 	}
